@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-install.log
+vite-preview.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
